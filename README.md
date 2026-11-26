@@ -1,6 +1,6 @@
 # M.U/T.H/E.R: Desktop Control Plane for Local AI Work (Showcase)
 
-> **This is a showcase repository.** The M.U/T.H/E.R source code is private. This repo holds the overview, architecture and screens so reviewers can see what was built. Questions are welcome through [LinkedIn](https://www.linkedin.com/in/jnewell).
+> **This is a showcase repository.** The M.U/T.H/E.R source code is private. This repo holds the overview, architecture and screens so reviewers can see what was built. Questions are welcome at [info@maxresearchcollective.com](mailto:info@maxresearchcollective.com) or through [www.maxresearchcollective.com](https://www.maxresearchcollective.com).
 
 M.U/T.H/E.R (Model Unification / Tool Harness / Execution Runtime) is the desktop app that runs the engineering side of MAX Research Collective on one Windows PC. It tracks and cuts AI usage costs, runs CI (continuous integration) on local runners instead of paid hosted minutes, and builds installers locally. It is in daily use and in active development.
 
